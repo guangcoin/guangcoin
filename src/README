@@ -1,0 +1,4 @@
+Fork of Litecoin codebase:
+   PoW + mining from Zcash
+   Signatures / Keys from Picnic, with changes to make deterministic public keys (in progress)
+   Other changes in progress (blockchain stats, address encoding) wholly novel
